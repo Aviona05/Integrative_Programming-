@@ -1,0 +1,12 @@
+Last Name: Capangpangan
+First Name: Kate
+Age: 18
+Contact Number: 09987261415
+Course: BS psychology
+------------------------------
+Last Name: Bernil
+First Name: Aviona
+Age: 19
+Contact Number: 0987609876
+Course: BSITBA
+------------------------------
